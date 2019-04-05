@@ -6,3 +6,5 @@ Just testing the commands of git flow
 - git flow feature publish making-feature
 - git flow feature pull making-feature
 - git flow feature finish making-feature
+
+### Test
