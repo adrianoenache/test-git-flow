@@ -13,7 +13,7 @@ Just testing the commands of git flow
 - git flow release pull origin making-release
 - git flow release finish making-release
 
-## making-release
+## making-hotfix
 - git flow hotfix start making-hotfix
 - git flow hotfix publish making-hotfix
 - git flow hotfix pull origin making-hotfix
